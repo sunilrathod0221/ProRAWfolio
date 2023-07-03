@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+  color: white;
+}
+
+header {
+  background-color: white;
+  height: 100px;
+  width: 100%; 
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+
+
+h1 {
+  color: black;
+
+}
+
+.content {
+  margin: 50px;
+}
